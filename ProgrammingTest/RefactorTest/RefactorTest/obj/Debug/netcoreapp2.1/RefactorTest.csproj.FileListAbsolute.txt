@@ -1,0 +1,11 @@
+C:\Users\kchan\Desktop\ProgrammingTest\ProgrammingTest\RefactorTest\RefactorTest\bin\Debug\netcoreapp2.1\RefactorTest.deps.json
+C:\Users\kchan\Desktop\ProgrammingTest\ProgrammingTest\RefactorTest\RefactorTest\bin\Debug\netcoreapp2.1\RefactorTest.runtimeconfig.json
+C:\Users\kchan\Desktop\ProgrammingTest\ProgrammingTest\RefactorTest\RefactorTest\bin\Debug\netcoreapp2.1\RefactorTest.runtimeconfig.dev.json
+C:\Users\kchan\Desktop\ProgrammingTest\ProgrammingTest\RefactorTest\RefactorTest\bin\Debug\netcoreapp2.1\RefactorTest.dll
+C:\Users\kchan\Desktop\ProgrammingTest\ProgrammingTest\RefactorTest\RefactorTest\bin\Debug\netcoreapp2.1\RefactorTest.pdb
+C:\Users\kchan\Desktop\ProgrammingTest\ProgrammingTest\RefactorTest\RefactorTest\obj\Debug\netcoreapp2.1\RefactorTest.csprojAssemblyReference.cache
+C:\Users\kchan\Desktop\ProgrammingTest\ProgrammingTest\RefactorTest\RefactorTest\obj\Debug\netcoreapp2.1\RefactorTest.csproj.CoreCompileInputs.cache
+C:\Users\kchan\Desktop\ProgrammingTest\ProgrammingTest\RefactorTest\RefactorTest\obj\Debug\netcoreapp2.1\RefactorTest.AssemblyInfoInputs.cache
+C:\Users\kchan\Desktop\ProgrammingTest\ProgrammingTest\RefactorTest\RefactorTest\obj\Debug\netcoreapp2.1\RefactorTest.AssemblyInfo.cs
+C:\Users\kchan\Desktop\ProgrammingTest\ProgrammingTest\RefactorTest\RefactorTest\obj\Debug\netcoreapp2.1\RefactorTest.dll
+C:\Users\kchan\Desktop\ProgrammingTest\ProgrammingTest\RefactorTest\RefactorTest\obj\Debug\netcoreapp2.1\RefactorTest.pdb
